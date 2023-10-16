@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('/calendar-1763587_1280.png'); /* Replace 'background.jpg' with your image file */
+    background-image: url('/calendar-1763587_1280.png'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
